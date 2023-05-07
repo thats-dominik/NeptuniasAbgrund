@@ -57,6 +57,7 @@ ul {
     margin: 0;
     padding: 0;
 }
+
 #karte, #tiere, #startseite, #kontakt {
     display: inline-block;
     background-color: #9daddf;
